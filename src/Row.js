@@ -2,7 +2,7 @@ import React, {useState,useEffect} from 'react'
 import Coloumn from './Coloumn'
 import axios from "./axios"
 
-function Row({title, fetchUrl}){
+function Row({title, fetchUrl, isLargeRow}){
     const [movies, setMovies] = useState([])
     useEffect(() => {
         // effect
@@ -18,7 +18,7 @@ function Row({title, fetchUrl}){
         <div className="row">
             
             {(movies.length > 0) ? (
-               movies.map((val, i)=>(<Coloumn movie={val} key={i}/>))
+               movies.map((val, i)=>(<Coloumn movie={val} key={i} isLargeRow={isLargeRow}/>))
             ):(null)}
         </div>
         </>
