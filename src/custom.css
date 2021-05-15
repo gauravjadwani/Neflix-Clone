@@ -33,3 +33,7 @@
 .col:hover {
   transform: scale(1.08);
 }
+
+.cat-title {
+  text-align: center;
+}

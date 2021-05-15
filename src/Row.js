@@ -11,14 +11,17 @@ function Row({title, fetchUrl}){
             setMovies(val.data.results)
         })
 
-    }, [])
+    }, [fetchUrl])
     return(
+        <>
+        <div className="cat-title"><h1>{title}</h1></div>
         <div className="row">
-            <p>{title}</p>
+            
             {(movies.length > 0) ? (
                movies.map((val, i)=>(<Coloumn movie={val} key={i}/>))
             ):(null)}
         </div>
+        </>
     )
 }
 export default Row
