@@ -1,0 +1,35 @@
+.col {
+  /* display: inline-block; */
+}
+
+.row {
+  /* max-height: 100px; */
+  /* width: 100%; */
+  overflow-y: hidden;
+  overflow-x: scroll;
+  display: flex;
+  padding: 20px;
+}
+
+.row::-webkit-scrollbar {
+  display: none;
+}
+.image {
+  /* width: 200px; */
+  /* width: 100%; */
+  object-fit: contain;
+  max-height: 200px;
+
+  /* height: auto; */
+}
+
+.col {
+  margin-right: 10px;
+  transition: transform 450ms;
+
+  /* width: 80%; */
+}
+
+.col:hover {
+  transform: scale(1.08);
+}
