@@ -7,7 +7,7 @@ function Row({title, fetchUrl, isLargeRow}){
     useEffect(() => {
         // effect
         axios.get(fetchUrl).then(function(val){
-            console.log("this is val",val)
+            // console.log("this is val",val)
             setMovies(val.data.results)
         })
 

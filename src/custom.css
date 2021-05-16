@@ -37,3 +37,15 @@
 .cat-title {
   text-align: center;
 }
+
+.movie-title {
+  text-align: center;
+}
+
+.banner {
+  color: white;
+}
+.banner-contents {
+  object-fit: contain;
+  height: 448px;
+}
