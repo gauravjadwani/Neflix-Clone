@@ -8,9 +8,10 @@ function Banner(){
             background:`url(https://image.tmdb.org/t/p/original/${d.backdrop_path})`
         }} className="banner">
             <div className="banner-contents">
-            <div>{d.name}</div> 
-            {/* buttons  */}
-            <div>{d.overview}</div>
+            <div className="banner-title">{d.name}</div> 
+            <button className="banner-button">Play</button>
+            <button className="banner-button">My list</button>
+            <div className="banner-desciption">{d.overview}</div>
             </div>
         </header>
     )
