@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Neflix-Clone/static/css/main.3e6be3c0.chunk.css",
+    "main.js": "/Neflix-Clone/static/js/main.233774cc.chunk.js",
+    "main.js.map": "/Neflix-Clone/static/js/main.233774cc.chunk.js.map",
+    "runtime-main.js": "/Neflix-Clone/static/js/runtime-main.1488d356.js",
+    "runtime-main.js.map": "/Neflix-Clone/static/js/runtime-main.1488d356.js.map",
+    "static/css/2.1fe20c78.chunk.css": "/Neflix-Clone/static/css/2.1fe20c78.chunk.css",
+    "static/js/2.55b7f42b.chunk.js": "/Neflix-Clone/static/js/2.55b7f42b.chunk.js",
+    "static/js/2.55b7f42b.chunk.js.map": "/Neflix-Clone/static/js/2.55b7f42b.chunk.js.map",
+    "static/js/3.a8d5537e.chunk.js": "/Neflix-Clone/static/js/3.a8d5537e.chunk.js",
+    "static/js/3.a8d5537e.chunk.js.map": "/Neflix-Clone/static/js/3.a8d5537e.chunk.js.map",
+    "index.html": "/Neflix-Clone/index.html",
+    "static/css/2.1fe20c78.chunk.css.map": "/Neflix-Clone/static/css/2.1fe20c78.chunk.css.map",
+    "static/css/main.3e6be3c0.chunk.css.map": "/Neflix-Clone/static/css/main.3e6be3c0.chunk.css.map",
+    "static/js/2.55b7f42b.chunk.js.LICENSE.txt": "/Neflix-Clone/static/js/2.55b7f42b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Neflix-Clone/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1488d356.js",
+    "static/css/2.1fe20c78.chunk.css",
+    "static/js/2.55b7f42b.chunk.js",
+    "static/css/main.3e6be3c0.chunk.css",
+    "static/js/main.233774cc.chunk.js"
+  ]
+}
