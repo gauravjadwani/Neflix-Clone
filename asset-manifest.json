@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/netflix-clone/static/css/main.3e6be3c0.chunk.css",
-    "main.js": "/netflix-clone/static/js/main.233774cc.chunk.js",
-    "main.js.map": "/netflix-clone/static/js/main.233774cc.chunk.js.map",
-    "runtime-main.js": "/netflix-clone/static/js/runtime-main.8ddd02e3.js",
-    "runtime-main.js.map": "/netflix-clone/static/js/runtime-main.8ddd02e3.js.map",
-    "static/css/2.1fe20c78.chunk.css": "/netflix-clone/static/css/2.1fe20c78.chunk.css",
-    "static/js/2.25cae208.chunk.js": "/netflix-clone/static/js/2.25cae208.chunk.js",
-    "static/js/2.25cae208.chunk.js.map": "/netflix-clone/static/js/2.25cae208.chunk.js.map",
-    "static/js/3.a8d5537e.chunk.js": "/netflix-clone/static/js/3.a8d5537e.chunk.js",
-    "static/js/3.a8d5537e.chunk.js.map": "/netflix-clone/static/js/3.a8d5537e.chunk.js.map",
-    "index.html": "/netflix-clone/index.html",
-    "static/css/2.1fe20c78.chunk.css.map": "/netflix-clone/static/css/2.1fe20c78.chunk.css.map",
-    "static/css/main.3e6be3c0.chunk.css.map": "/netflix-clone/static/css/main.3e6be3c0.chunk.css.map",
-    "static/js/2.25cae208.chunk.js.LICENSE.txt": "/netflix-clone/static/js/2.25cae208.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/netflix-clone/static/media/logo.6ce24c58.svg"
+    "main.css": "/static/css/main.3e6be3c0.chunk.css",
+    "main.js": "/static/js/main.233774cc.chunk.js",
+    "main.js.map": "/static/js/main.233774cc.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0a57ea50.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0a57ea50.js.map",
+    "static/css/2.1fe20c78.chunk.css": "/static/css/2.1fe20c78.chunk.css",
+    "static/js/2.694cf22d.chunk.js": "/static/js/2.694cf22d.chunk.js",
+    "static/js/2.694cf22d.chunk.js.map": "/static/js/2.694cf22d.chunk.js.map",
+    "static/js/3.a8d5537e.chunk.js": "/static/js/3.a8d5537e.chunk.js",
+    "static/js/3.a8d5537e.chunk.js.map": "/static/js/3.a8d5537e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.1fe20c78.chunk.css.map": "/static/css/2.1fe20c78.chunk.css.map",
+    "static/css/main.3e6be3c0.chunk.css.map": "/static/css/main.3e6be3c0.chunk.css.map",
+    "static/js/2.694cf22d.chunk.js.LICENSE.txt": "/static/js/2.694cf22d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8ddd02e3.js",
+    "static/js/runtime-main.0a57ea50.js",
     "static/css/2.1fe20c78.chunk.css",
-    "static/js/2.25cae208.chunk.js",
+    "static/js/2.694cf22d.chunk.js",
     "static/css/main.3e6be3c0.chunk.css",
     "static/js/main.233774cc.chunk.js"
   ]
